@@ -47,6 +47,22 @@ The dashboard is organised into four main sections:
 - Return rate
 - Shipping performance
 
+
+## Dashboard Preview
+
+### 1. Sales Dashboard
+![Sales Dashboard](images/sales-dashboard.png)
+
+### 2. Product Dashboard
+![Product Dashboard](images/product-dashboard.png)
+
+### 3. Demography Dashboard
+![Demography Dashboard](images/demography-dashboard.png)
+
+### 4. Customers Dashboard
+![Customers Dashboard](images/customers-dashboard.png)
+
+
 ## Key Performance Indicators
 
 | Metric | Result |
